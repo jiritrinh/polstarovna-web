@@ -181,13 +181,17 @@ h2 {
 /* konec sign blocku */
 footer {
     height: 80px;
-    background-color: #298224;
+    background-color: white;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 #f-text {
-    color: white;
+    color: #298224;
     font-family: Hind Vadodara Light;
 }
 
+#sign-btn:hover {
+    background-color: #3BD16F; 
+
+}
